@@ -37,6 +37,6 @@ Built as a challenge for **Fawry**.
 | `Inventory`              | Manages books (add, remove, buy)       |
 | `Shippable`              | Interface for shipping functionality   |
 | `Emailable`              | Interface for email functionality      |
-| `QuantumBookstoreFullTest` | Demo class that tests the full flow   |
+| `Main` | Demo class that tests the full flow   |
 
 
