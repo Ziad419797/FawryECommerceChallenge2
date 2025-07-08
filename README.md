@@ -1,7 +1,7 @@
-# 📚 Quantum Bookstore – Fawry N² Dev Slope #10
+# 📚 Quantum Bookstore
 
 Quantum Bookstore is an extensible Java console application simulating an online bookstore with support for various book types such as paper books, eBooks, and demo books.  
-Built as a challenge for **Fawry N² Dev Slope #10**.
+Built as a challenge for **Fawry**.
 
 ---
 
